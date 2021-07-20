@@ -55,8 +55,8 @@ hi  SpellCap                                cterm=undercurl  ctermfg=NONE  cterm
 hi  SpellLocal                              cterm=undercurl  ctermfg=NONE  ctermbg=NONE  guisp=#b58900  gui=undercurl
 hi  SpellRare                               cterm=undercurl  ctermfg=NONE  ctermbg=NONE  guisp=#2aa198  gui=undercurl
 hi  Statement                               cterm=NONE  ctermfg=2  guifg=#719e07  gui=NONE
-hi  StatusLine                              cterm=reverse  ctermfg=14  ctermbg=0  guifg=#93a1a1  guibg=#252525  gui=reverse
-hi  StatusLineNC                            cterm=reverse  ctermfg=11  ctermbg=0  guifg=#657b83  guibg=#252525  gui=reverse
+hi  StatusLine                              cterm=reverse  ctermfg=14  ctermbg=0  guifg=#ffffff  guibg=#252525  gui=reverse
+hi  StatusLineNC                            cterm=reverse  ctermfg=11  ctermbg=0  guifg=#ffffff  guibg=#252525  gui=reverse
 hi  TabLine                                 cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#252525  guisp=#839496  gui=underline
 hi  TabLineFill                             cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#252525  guisp=#839496  gui=underline
 hi  TabLineSel                              cterm=underline,reverse  ctermfg=10  ctermbg=7  guifg=#586e75  guibg=#eee8d5  guisp=#839496  gui=underline,reverse
@@ -65,7 +65,7 @@ hi  Todo                                    cterm=bold  ctermfg=5  ctermbg=8  gu
 hi  Type                                    cterm=NONE  ctermfg=3  guifg=#b58900  gui=NONE
 hi  Underlined                              cterm=NONE  ctermfg=13  guifg=#6c71c4  gui=NONE
 hi  VarId                                   cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
-hi  VertSplit                               cterm=NONE  ctermfg=11  ctermbg=11  guifg=#657b83  guibg=#657b83  gui=NONE
+hi  VertSplit                               cterm=NONE  ctermfg=11  ctermbg=11  guifg=#ffffff  guibg=#252525  gui=NONE
 hi  Visual                                  cterm=reverse  ctermfg=10  ctermbg=8  guifg=#586e75  guibg=#252525  gui=reverse
 hi  VisualNOS                               cterm=reverse  ctermbg=0  ctermbg=NONE  guibg=#252525  guifg=NONE  gui=reverse
 hi  WarningMsg                              cterm=NONE  ctermfg=9  guifg=#dc322f  gui=NONE
